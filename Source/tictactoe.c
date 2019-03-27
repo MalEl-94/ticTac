@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
+#include <cstdlib>
+
 //AHAD MALIK
 //ALGO+DS COURSEWORK
 
