@@ -1,6 +1,6 @@
 # malik_ahad_ads
 
-***PLEASE REMOVE include <cstdlib> from the header of the Sourcecode file "tictactoe.c" before compiling. Exec was compiled using an online compiler as I am on Mac and only realised the source code cannot compile. Excuse the error**
+***PLEASE REMOVE include <cstdlib> from the header of the Sourcecode file "tictactoe.c" before compiling.
   
   
 Executable folder - Contains .exe file
